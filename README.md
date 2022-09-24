@@ -1,2 +1,2 @@
-# Eternity_Primal
+# Eternity_PrimalServer
 A doctor who themed modpack focused on running the 1.19.2 version of minecraft
